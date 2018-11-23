@@ -9,6 +9,7 @@ public class Shf
         int n = list.Count;  
         while (n > 1) {  
             //ㅁㄴ아러미ㅏ너린멍리
+            //ㅁㄴ아ㅣ럼니러ㅏㅣㄴ머린렁
             n--;  
             int k = rng.Next(n + 1);  
             int value = list[k];  
